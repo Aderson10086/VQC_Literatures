@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1714661461 "/Users/yhu/Documents/LITERATURE/literature_sort.tex" "literature_sort.pdf" "literature_sort" 1714661461 0
-  "/Users/yhu/Documents/LITERATURE/literature_sort.tex" 1714661460 9491 50c80b0ae5cd0dda84d1b327ea1bf5c4 ""
+["pdflatex"] 1714823526 "/Users/yhu/Documents/LITERATURE/literature_sort.tex" "literature_sort.pdf" "literature_sort" 1714823527 0
+  "/Users/yhu/Documents/LITERATURE/literature_sort.tex" 1714823526 9607 d0843eb48299c363724983cf5cfe4198 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -80,9 +80,9 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1708150563 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1708150509 7883461 6cb6d27fee93f4b3f746bc236689e412 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "literature_sort.aux" 1714661461 2877 37c9f383be0a5c7876f71d50af4f3381 "pdflatex"
-  "literature_sort.out" 1714661461 5810 fbcc827bec0a924b2b9af9b6129c8344 "pdflatex"
-  "literature_sort.tex" 1714661460 9491 50c80b0ae5cd0dda84d1b327ea1bf5c4 ""
+  "literature_sort.aux" 1714823527 2877 da644aba8633b8da8e323069180d4cac "pdflatex"
+  "literature_sort.out" 1714823527 5810 fbcc827bec0a924b2b9af9b6129c8344 "pdflatex"
+  "literature_sort.tex" 1714823526 9607 d0843eb48299c363724983cf5cfe4198 ""
   (generated)
   "literature_sort.aux"
   "literature_sort.log"
