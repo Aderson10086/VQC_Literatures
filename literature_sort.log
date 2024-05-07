@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.17)  6 MAY 2024 23:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.17)  7 MAY 2024 23:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -289,48 +289,53 @@ Overfull \hbox (5.49579pt too wide) in paragraph at lines 38--39
 []\OT1/cmr/m/n/12 Tensorized Pauli de-comp-si-tion al-go-rithm []$\OT1/cmtt/m/n/12 https : / / arxiv . org / pdf / 2310 . 13421$[] 
  []
 
+
+Overfull \hbox (0.71494pt too wide) in paragraph at lines 49--50
+[]\OT1/cmr/m/n/12 Artificial-Intelligence-Driven Shot Re-duc-tion in Quan-tum Mea-sure-ment []$\OT1/cmtt/m/n/12 https :
+ []
+
 [2]
-Overfull \hbox (28.39944pt too wide) in paragraph at lines 62--63
+Overfull \hbox (28.39944pt too wide) in paragraph at lines 65--66
 []\OT1/cmr/m/n/12 Variational Quan-tum Sim-u-la-tion: A case study for un-der-stand-ing warm starts[]$\OT1/cmtt/m/n/12 https :
  []
 
 
-Overfull \hbox (7.98015pt too wide) in paragraph at lines 66--67
+Overfull \hbox (7.98015pt too wide) in paragraph at lines 69--70
 []\OT1/cmr/m/n/12 Quantum Global Min-i-mum Finder Based on Quan-tum Vari-a-tional Search []$\OT1/cmtt/m/n/12 https :
  []
 
 
-Overfull \hbox (10.8832pt too wide) in paragraph at lines 71--71
+Overfull \hbox (10.8832pt too wide) in paragraph at lines 74--74
 []\OT1/cmr/bx/n/17.28 Topic 7: Mit-i-ga-tion Noise and Bar-ren Plateau 
  []
 
 [3] [4]
-Overfull \hbox (1.56396pt too wide) in paragraph at lines 98--99
+Overfull \hbox (1.56396pt too wide) in paragraph at lines 101--102
 []\OT1/cmr/m/n/12 On Quan-tum Nat-u-ral Pol-icy Gra-di-ents []$\OT1/cmtt/m/n/12 https : / / arxiv . org / pdf / 2401 . 08307 .
  []
 
 
-Overfull \hbox (10.79175pt too wide) in paragraph at lines 99--100
+Overfull \hbox (10.79175pt too wide) in paragraph at lines 102--103
 []\OT1/cmr/m/n/12 Variational Quan-tum Al-go-rithms for Semidef-i-nite Pro-gram-ming []$\OT1/cmtt/m/n/12 https : / / arxiv .
  []
 
 
-Overfull \hbox (1.03908pt too wide) in paragraph at lines 111--112
+Overfull \hbox (1.03908pt too wide) in paragraph at lines 114--115
 []\OT1/cmr/m/n/12 Learning Quan-tum Pro-cesses with Quan-tum Sta-tis-ti-cal Query []$\OT1/cmtt/m/n/12 https : / / arxiv .
  []
 
 [5]
-Overfull \hbox (64.2377pt too wide) in paragraph at lines 119--120
+Overfull \hbox (64.2377pt too wide) in paragraph at lines 123--124
 []\OT1/cmr/m/n/12 Efficient quan-tum am-pli-tude en-cod-ing of poly-no-mial func-tions []$\OT1/cmtt/m/n/12 https : / / quantum-[]journal .
  []
 
 
-Overfull \hbox (0.48213pt too wide) in paragraph at lines 120--121
+Overfull \hbox (0.48213pt too wide) in paragraph at lines 124--125
 []\OT1/cmr/m/n/12 Optimal Uni-ver-sal Quan-tum En-cod-ing for sta-tis-ti-cal in-fer-ence []$\OT1/cmtt/m/n/12 https : / / arxiv .
  []
 
 
-Overfull \hbox (2.92378pt too wide) in paragraph at lines 121--122
+Overfull \hbox (2.92378pt too wide) in paragraph at lines 125--126
 []\OT1/cmr/m/n/12 Let Quan-tum Neu-ral Net-works Choose Their Own Fre-quen-cies []$\OT1/cmtt/m/n/12 https : / / arxiv .
  []
 
@@ -341,16 +346,16 @@ Package rerunfilecheck Info: File `literature_sort.out' has not changed.
 Here is how much of TeX's memory you used:
  9545 strings out of 476025
  149202 string characters out of 5790017
- 1862388 words of memory out of 5000000
+ 1861388 words of memory out of 5000000
  29871 multiletter control sequences out of 15000+600000
  520605 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,76p,669b,485s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on literature_sort.pdf (7 pages, 94541 bytes).
+Output written on literature_sort.pdf (7 pages, 95165 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 200 compressed objects within 2 object streams
+ 229 PDF objects out of 1000 (max. 8388607)
+ 205 compressed objects within 3 object streams
  23 named destinations out of 1000 (max. 500000)
  113 words of extra memory for PDF output out of 10000 (max. 10000000)
 
